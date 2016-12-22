@@ -1,0 +1,2 @@
+# ORCL
+scripts for oracle
